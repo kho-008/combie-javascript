@@ -1,0 +1,19 @@
+{
+  "name": "merger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "merger init",
+    "build": "merger build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^10.0.0",
+    "inquirer": "^9.1.4",
+    "merger-js": "^3.10.3",
+    "node-notifier": "^10.0.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"sourceFiles": [
+		{
+			"source": "src\\input.js",
+			"output": {
+				"path": "dist",
+				"name": "output.js"
+			}
+		}
+	],
+	"nodeModulesPath": "C:\\Users\\kitahamagm1221\\Desktop\\merger-js\\node_modules",
+	"lastUpdateCheck": "2023-01-17T05:09:58.000Z",
+	"updateOnLaunch": false
+}
